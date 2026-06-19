@@ -72,5 +72,3 @@ The developed classification system successfully predicts Iris flower species wi
 
 **Muhammad Anas Rathore**
 
-* Data Science
-* Software Development
